@@ -8,3 +8,15 @@ Thumbs.db
 
 .rbenv-version
 .rvmrc
+
+#
+# Ignore artifacts from editors, patching, etc.
+#
+*~
+*.bak
+\#*\#
+.\#*
+.*.swp
+*.orig
+*.rej
+gmon.out
