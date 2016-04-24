@@ -10,9 +10,9 @@ group: navigation
 
 gLabels 3.2.x requires the following libraries or newer.
 
-- GTK+-3.6.x
+- GTK+-3.14.x
 - LIBXML-2.9.x
-- LIBRSVG-2.36.x
+- LIBRSVG-2.39.x
 
 The following components are optional:
 
@@ -28,7 +28,8 @@ their dependencies.
 
 ## Current Stable Version (Source)
 
-- [glabels-3.2.1.tar.xv](http://ftp.gnome.org/pub/GNOME/sources/glabels/3.2/glabels-3.2.1.tar.xz) (latest version)
+- [glabels-3.4.0.tar.xv](http://ftp.gnome.org/pub/GNOME/sources/glabels/3.4/glabels-3.4.0.tar.xz) (latest version)
+- [glabels-3.2.1.tar.xv](http://ftp.gnome.org/pub/GNOME/sources/glabels/3.2/glabels-3.2.1.tar.xz)
 - [glabels-3.2.0.tar.xv](http://ftp.gnome.org/pub/GNOME/sources/glabels/3.2/glabels-3.2.0.tar.xz)
 
 
