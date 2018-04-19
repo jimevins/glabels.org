@@ -47,4 +47,5 @@ version, please contact the package maintainer and urge them to update as soon a
 ## Git
 The latest bleading-edge version of gLabels can be cloned from its Github repository.
 
-- [gLabels GitHub page](https://github.com/jimevins/glabels)
+- [gLabels 3.x GitHub repository](https://github.com/jimevins/glabels)
+- [gLabels 4.x GitHub repository](https://github.com/jimevins/glabels-qt) -- the next generation of gLabels
