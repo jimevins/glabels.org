@@ -28,9 +28,8 @@ their dependencies.
 
 ## Current Stable Version (Source)
 
-- [glabels-3.4.0.tar.xv](http://ftp.gnome.org/pub/GNOME/sources/glabels/3.4/glabels-3.4.0.tar.xz) (latest version)
-- [glabels-3.2.1.tar.xv](http://ftp.gnome.org/pub/GNOME/sources/glabels/3.2/glabels-3.2.1.tar.xz)
-- [glabels-3.2.0.tar.xv](http://ftp.gnome.org/pub/GNOME/sources/glabels/3.2/glabels-3.2.0.tar.xz)
+- [glabels-3.4.1.tar.xv](http://ftp.gnome.org/pub/GNOME/sources/glabels/3.4/glabels-3.4.1.tar.xz) (latest version)
+- [glabels-3.4.0.tar.xv](http://ftp.gnome.org/pub/GNOME/sources/glabels/3.4/glabels-3.4.0.tar.xz)
 
 
 ## Third Party Packages
